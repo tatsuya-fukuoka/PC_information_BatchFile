@@ -1,0 +1,2 @@
+getmac/v
+cmd /k
